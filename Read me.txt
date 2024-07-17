@@ -1,0 +1,7 @@
+
+Username : hieu@gmail.com
+Password : 123
+
+For Admin :
+User Name : admin
+Password : 123
